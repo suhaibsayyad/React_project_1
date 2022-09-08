@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/suhaibsayyad/ReactProject1.git/static/css/main.a9d9ae08.css",
+    "main.js": "/suhaibsayyad/ReactProject1.git/static/js/main.429d22e5.js",
+    "index.html": "/suhaibsayyad/ReactProject1.git/index.html",
+    "main.a9d9ae08.css.map": "/suhaibsayyad/ReactProject1.git/static/css/main.a9d9ae08.css.map",
+    "main.429d22e5.js.map": "/suhaibsayyad/ReactProject1.git/static/js/main.429d22e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d9ae08.css",
+    "static/js/main.429d22e5.js"
+  ]
+}
